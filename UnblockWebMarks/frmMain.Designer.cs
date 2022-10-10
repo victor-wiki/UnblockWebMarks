@@ -39,7 +39,7 @@
             // btnChooseFolder
             // 
             this.btnChooseFolder.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnChooseFolder.Location = new System.Drawing.Point(417, 19);
+            this.btnChooseFolder.Location = new System.Drawing.Point(417, 20);
             this.btnChooseFolder.Name = "btnChooseFolder";
             this.btnChooseFolder.Size = new System.Drawing.Size(67, 23);
             this.btnChooseFolder.TabIndex = 13;
@@ -67,7 +67,7 @@
             // 
             // btnExecute
             // 
-            this.btnExecute.Location = new System.Drawing.Point(177, 74);
+            this.btnExecute.Location = new System.Drawing.Point(169, 76);
             this.btnExecute.Name = "btnExecute";
             this.btnExecute.Size = new System.Drawing.Size(75, 23);
             this.btnExecute.TabIndex = 14;
@@ -77,7 +77,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Location = new System.Drawing.Point(273, 74);
+            this.btnClose.Location = new System.Drawing.Point(265, 76);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(75, 23);
             this.btnClose.TabIndex = 15;
