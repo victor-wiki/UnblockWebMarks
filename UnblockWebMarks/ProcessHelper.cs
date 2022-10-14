@@ -29,9 +29,7 @@ namespace UnblockWebMarks
                     {
                         proc.StandardInput.WriteLine(cmd);
                     }
-                }
-
-                proc.Kill();
+                }               
             }
         }
     }
